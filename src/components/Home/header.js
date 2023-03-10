@@ -17,7 +17,7 @@ const Header = () => {
 
           <h1 className="text-white font-poppins font-semibold text-2xl xxs:text-2xl xs:text-2xl sm:text-lg md:text-2xl lg:text-4xl xl:text-7xl 2xl:text-8xl">
             Change starts with <br></br> a{" "}
-            <span class="text-gradient bg-gradient-to-r from-pink to-purple">
+            <span class="text-gradient bg-gradient-to-r from-sky-500 to-indigo-500">
               single click.
             </span>
           </h1>
